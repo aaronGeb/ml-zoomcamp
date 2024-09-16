@@ -1,1 +1,1 @@
-# ml-zomcamp
+# ml-zoomcamp
